@@ -5,7 +5,7 @@ Portfólio Elinanda Vitória
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Eliana Vitória - Fotógrafa</title>
+  <title>Elinanda Vitória - Fotógrafa</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -32,14 +32,24 @@ Portfólio Elinanda Vitória
   </style>
 </head>
 <body>
-  <h1>Eliana Vitória - Fotógrafa</h1>
-  <p>Olá! Sou Eliana Vitória, fotógrafa profissional de 20 anos. Terminei meu curso profissional de fotografia em 2025 e sou apaixonada por registrar momentos únicos. Amo fotografar moda, retratos, famílias e eventos. Seria um prazer fotografar você!</p>
+  <h1>Elinanda Vitória - Fotógrafa</h1>
+  <p>Olá! Sou Elinanda Vitória, fotógrafa profissional de 20 anos. Terminei meu curso profissional de fotografia em 2025 e sou apaixonada por registrar momentos únicos. Amo fotografar moda, retratos, famílias e eventos. Seria um prazer fotografar você!</p>
 
   <h2>Minha Galeria</h2>
   <div class="gallery">
-    <img src="https://i.ibb.co/7rSyjtk/exemplo.jpg" alt="Foto exemplo 1">
-    <img src="https://i.ibb.co/7rSyjtk/exemplo.jpg" alt="Foto exemplo 2">
-    <img src="https://i.ibb.co/7rSyjtk/exemplo.jpg" alt="Foto exemplo 3">
+    https://ibb.co/QvjkVNht
+https://ibb.co/TDH41nCF
+https://ibb.co/dwgDc0Dg
+https://ibb.co/0Rp76d6F
+https://ibb.co/wNFg83QV
+https://ibb.co/hRjsHvS3
+https://ibb.co/n8NkTVWz
+https://ibb.co/5hYRqnYZ
+https://ibb.co/qFDWZW0z
+https://ibb.co/VY98gxFg
+https://ibb.co/Z1vfzK4k
+https://ibb.co/dsDbhccq
+https://ibb.co/chDrzjpY
   </div>
 
   <p>Entre em contato para marcar sua sessão!</p>
